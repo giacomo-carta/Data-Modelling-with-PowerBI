@@ -54,6 +54,9 @@ In this project, I did a few key things:
 
 ![SchemaBeforeAfter](https://github.com/giacomo-carta/Data-Modelling-with-PowerBI/assets/153180003/99697b3d-dc95-4bf1-840c-915dd0bf58f3)
 
+### An Example of a Simple Dashboard
+
+![Dashboard](https://github.com/giacomo-carta/Data-Modelling-with-PowerBI/assets/153180003/0a358781-9f48-4d75-a267-845dd4d3ef70)
 
 ## Special Thanks
 
