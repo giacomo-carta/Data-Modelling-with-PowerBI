@@ -52,7 +52,7 @@ In this project, I did a few key things:
 
 ### Schema: Before vs After 
 
-![SchemaBeforeAfter](https://github.com/giacomo-carta/Data-Modelling-with-PowerBI/assets/153180003/99697b3d-dc95-4bf1-840c-915dd0bf58f3)
+![SchemaBeforeAfter](https://github.com/giacomo-carta/Data-Modelling-with-PowerBI/assets/153180003/6933eec0-1c68-4432-9385-c74e08e1d469)
 
 ### An Example of a Simple Dashboard
 
